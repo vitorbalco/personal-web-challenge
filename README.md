@@ -37,12 +37,6 @@ Meu foco atual é **backend com Python**, mas em breve estarei mergulhando de ca
 
 ---
 
-## 📸 Capturas de Tela
-
-(Adicione aqui imagens do seu site se quiser mostrar seu progresso visual)
-
----
-
 ## 🤝 Agradecimentos
 
 Agradeço aos professores, colegas e à comunidade de desenvolvedores que compartilham conhecimento todos os dias. Programar pode ser desafiador, mas é muito mais gratificante quando aprendemos juntos!
