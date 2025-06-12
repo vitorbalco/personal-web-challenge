@@ -1,0 +1,211 @@
+/* Estilo geral da página          */
+body {
+    background-color: #bfebfe;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color: #000000;
+  }
+  
+ 
+  /* Bloco genérico decorativo       */
+  .bloco {
+    height: 500px;
+    background-color: aqua;
+    margin: 30px auto 20px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    border: 3px solid;
+  }
+  
+  
+  /* Cabeçalho e introdução          */
+  .secao-principal {
+    color: rgb(255, 6, 6);
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .titulo_autobiografia {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+ 
+  /* Botão para mostrar autobiografia */
+  .button_center {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .button_info {
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(255, 254, 254);
+    font-size: larger;
+    line-height: 1.1;
+    color: #000000;
+    max-width: 1500px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  
+  /* Texto da autobiografia           */
+  .info_autobio {
+    text-align: center;
+    line-height: 1.0;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  
+  /* Seção de hobbies                 */
+  .titulo-hobbies {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .lista-hobbies {
+    color: black;
+    text-align: center;
+    list-style-position: inside;
+    font-size: 15px;
+    max-width: 800px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid gray;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Elementos dentro da lista (estilo geral) */
+  ul, li, img, button {
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+ 
+  /* Tabela de países                 */
+  .titulo_tabela {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  table,
+  .tabela_custom {
+    margin: 0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Arial, sans-serif;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #000000;
+    font-family: Arial, sans-serif;
+  }
+  
+ 
+  /* Seção de site recomendado        */
+  .imagem_site {
+    text-align: center;
+    max-width: 1450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
+  
+  .emoji {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .conteudo_informativo_site {
+    font-size: 15px;
+    text-align: center;
+    max-width: 1450px;
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .center {
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .color_link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .color_link:hover {
+    color: red;
+    text-decoration: underline;
+  }
+  
+  
+  /* Botão e mensagem motivacional    */
+  .button_center2 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .button_msg {
+    font-size: 25px;
+    background-color: blueviolet;
+  }
+  
+  .info_msg {
+    text-align: center;
+    font: arial;
+    font-size: 50px;
+  }
